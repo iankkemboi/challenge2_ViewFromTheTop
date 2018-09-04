@@ -145,6 +145,12 @@ You can use the following resources to to get acquainted with some feature selec
   - You are free to use all manner of tools
   - Successive interviews for projects MAY be run to satisfy participating african.ai partners
 
+-----------------------------------------------------------
+IAN KIPKEMBOI's comments
+
+I chose to go with Logistic Regression One Versus Rest Algorithmic Implementation because I felt Logistic Regression would be more robust against overfitting.Having tried several other decision tree model variants and ensemble methods,I saw a huge risk of overfitting to the test set
+Considering the relatively small training set(168 rows),Overfitting was a huge factor in choosing my model
+
 
 
 
